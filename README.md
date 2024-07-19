@@ -1,2 +1,0 @@
-# Mirai-Source-Code
-Mirai
